@@ -1,6 +1,5 @@
 Guvi_CAPSTON_Project_YOUTUBE-DATA-HARVESTING-AND-WAREHOUSING
 
-LinkedIn : https://www.linkedin.com/in/sasi-rekha-n-m-709157179/
 
 Youtube-Data-Harvesting-And-Warehousing YouTube Data Harvesting and Warehousing is a project that intends to provide users with the ability to access and analyse data from numerous YouTube channels. SQL, MongoDB, and Streamlit are used in the project to develop a user-friendly application that allows users to retrieve, save, and query YouTube channel and video data.
 
@@ -37,3 +36,11 @@ Storage of data in a MongoDB database as a data lake.
 Migration of data from the data lake to a SQL database for efficient querying and analysis.
 
 Search and retrieval of data from the SQL database using different search options.
+
+NAME : SASI REKHA N M
+
+LinkedIn : https://www.linkedin.com/in/sasi-rekha-n-m-709157179/
+
+BATCH: MDE91
+
+DOMAIN : DATA SCIENCE
